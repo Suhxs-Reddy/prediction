@@ -136,7 +136,3 @@ The models are evaluated using several performance metrics, including **accuracy
 - **MSE**: 0.0039
 - **RMSE**: 0.0628
 - **R²**: 0.9127
-
----
-
-This structure should make the README more readable and accessible, with clearly separated sections and concise information. Feel free to modify it further or let me know if you'd like any other adjustments!
