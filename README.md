@@ -1,7 +1,3 @@
-Here’s a README template for your GitHub repository based on the dataset description and model evaluation results you provided:
-
----
-
 # Walmart Sales Prediction
 
 This repository contains the code and models used to predict department-wide sales for Walmart stores using historical sales data, promotional markdowns, and regional factors. The challenge also involves modeling the effect of holidays on sales during special markdown events.
